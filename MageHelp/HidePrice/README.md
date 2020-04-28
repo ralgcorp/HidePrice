@@ -23,7 +23,7 @@ This Extension is used for hide price at category and product detail when user n
 ### Enable Extension
 
 ```
-php bin/magento module:enable Dangs_Hideprice
+php bin/magento module:enable MageHelp_Hideprice
 php bin/magento setup:upgrade
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy
