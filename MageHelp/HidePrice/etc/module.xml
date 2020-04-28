@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Rodrigo Gabriel.
+ *
+ * @category  MageHelp
+ * @package   MageHelp_Hideprice
+ * @author    ralgcorp@gmail.com
+ * @copyright Copyright (c) 
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Module/etc/module.xsd">
+   <module name="MageHelp_Hideprice" setup_version="1.0.0" schema_version="1.0.0"/>
+</config>
