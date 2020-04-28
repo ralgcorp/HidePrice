@@ -28,3 +28,7 @@ php bin/magento setup:upgrade
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy
 ```
+
+## Screenshot
+![ScreenShot](https://github.com/ralgcorp/HidePrice/blob/master/MageHelp/HidePrice/File/category.png)
+![ScreenShot](https://github.com/ralgcorp/HidePrice/blob/master/MageHelp/HidePrice/File/configuration.png)
